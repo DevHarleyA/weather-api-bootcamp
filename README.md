@@ -1,5 +1,11 @@
 # 🌦 Project: Weather API
 
+
+not-hosted
+![weather api](https://user-images.githubusercontent.com/101942628/191634530-9b5c93fc-bc98-43ac-8f28-54e537cca0d1.png)
+
+# Project Instructions
+
 ### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
 
 ### How to submit your code for review:
